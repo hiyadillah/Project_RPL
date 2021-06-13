@@ -1,0 +1,22 @@
+html, body{
+	height: 100%;
+	background-color: #A91F5B !important;
+	font-family: "Roboto", sans-serif;
+}
+
+.global-container{
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #A91F5A;
+}
+.navbar{
+	background-color: white;
+}
+
+.btn-primary {
+  color: #A91F5A;
+  background-color: #A91F5A;
+  border-color: #A91F5A;
+}
