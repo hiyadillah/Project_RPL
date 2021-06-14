@@ -11,10 +11,10 @@ Nama Asisten Praktikum : Ali
 
 
 Nama Kelompok
-1. Aldinur Syahdin Halim Simbolon ( role )
-2. Dimas Nabil ( role )
-3. Ilham Iyadillah ( role )
-4. Mahara ihsan kahfi ( role )
+1. Aldinur Syahdin Halim Simbolon ( backend )
+2. Dimas Nabil ( fullstack )
+3. Ilham Iyadillah ( backend )
+4. Mahara ihsan kahfi ( backend )
 
 **Latar Belakang**
 	
@@ -39,31 +39,45 @@ secara umum. LinkedOn memiliki fitur untuk menampilkan menampilkan info lowongan
 event yang ada di dalam kampus.  Setiap pengguna dapat membuat profile dan dapat membuat lowongan ataupun mendaftarkan diri pada suatu lowongan. 
 	
 **User analysis**
+
 **User story**
 
 Sebagai user saya dapat membuat profil
-1. Manajemen Profil
--Mengatur nama
--Mengatur password
 
-2.Mencari lowongan berdasarkan kata kunci
-3.Sebagai user saya ingin membuat post
-Membuat post akan menjadi fitur dari setiap profil
+1. Manajemen Profil
+
+- Mengatur nama
+
+- Mengatur password
+
+2. Mencari lowongan berdasarkan kata kunci
+
+3. Sebagai user saya dapat membuat project
 
 **Spesifikasi teknis lingkungan pengembangan**
 
-Software
+- Software
+
 Framework : Laravel, Bootstrap
+
 Database : MySQL
+
 Server : Apache
+
 Text Editor/IDE : Visual Studio Code atau Sublime Text 3
-Hardware
+
+- Hardware
+
 Processor : minimal 1 GHz
+
 RAM : 1 GB
+
 Graphic Card : DirectX 9 dengan drive WDDM 1.0
 
-Tech Stack
+- Tech Stack
+
 Version Control dan Collaboration Platform : Github dan Trello
+
 Teknologi : CSS/HTML, Javascript dan PHP
 
 **Hasil dan pembahasan**
@@ -120,7 +134,8 @@ Fungsi utama yang dikembangkan
 | Menghapus akun  | |  | V |  |
 
 **Hasil implementasi**
-Screenshot sistem
+
+Screenshoot sistem
 
 Welcome Page
 
