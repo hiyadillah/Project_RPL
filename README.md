@@ -127,24 +127,31 @@ Welcome Page
 ![homepage](https://user-images.githubusercontent.com/72461590/121905922-cf12e100-cd54-11eb-96aa-df84a6322fc0.png)
 
 Login
+
 ![login](https://user-images.githubusercontent.com/72461590/121906188-10a38c00-cd55-11eb-947a-60aec70a36c6.png)
 
 Registrasi
+
 ![registrasi linkedOn](https://user-images.githubusercontent.com/72461590/121906358-3df03a00-cd55-11eb-8ae2-8f356e8b27ca.png)
 
 Dashboard
+
 ![dashboard](https://user-images.githubusercontent.com/72461590/121906826-b0611a00-cd55-11eb-8dc5-cb0d0e957690.png)
 
 Profile
+
 ![profile](https://user-images.githubusercontent.com/72461590/121906917-c7a00780-cd55-11eb-9878-33d6bba26dac.png)
 
 Reset Password
+
 ![Reset Password](https://user-images.githubusercontent.com/72461590/121907003-d8e91400-cd55-11eb-9070-e3c187cee0ba.png)
 
 Membuat Project
+
 ![Membuat Project](https://user-images.githubusercontent.com/72461590/121907130-f918d300-cd55-11eb-8153-230662ef68d4.png)
 
 Hapus Project
+
 ![Hapus Project](https://user-images.githubusercontent.com/72461590/121907213-0b930c80-cd56-11eb-94e2-46edefb8b51f.png)
 
 **Testing (Test cases)**
