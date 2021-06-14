@@ -34,6 +34,7 @@ Sebagai user saya dapat membuat profil
 1. Manajemen Profil
 -Mengatur nama
 -Mengatur password
+
 2.Melihat Lowongan berdasarkan kategori
 Kategori
 - Fakultas
@@ -41,6 +42,7 @@ Kategori
 - PPKU
 - Kepanitiaan
 - Keagamaan
+
 3.Sebagai user saya ingin membuat post
 Membuat post akan menjadi fitur dari setiap profil
 
@@ -58,4 +60,10 @@ Graphic Card : DirectX 9 dengan drive WDDM 1.0
 Tech Stack
 Version Control dan Collaboration Platform : Github dan Trello
 Teknologi : CSS/HTML, Javascript dan PHP
+
+**Hasil dan pembahasan**
+
+Use case diagram
+![use case LinkedOn](https://user-images.githubusercontent.com/72461590/121895926-f5338380-cd4a-11eb-9664-b361cae509b7.png)
+
 
