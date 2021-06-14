@@ -124,14 +124,14 @@ Fungsi utama yang dikembangkan
 
 | Use Case | C | R | U | D|
 | --------------- | --------------- | --------------- | --------------- | --------------- |
-| Registrasi pada LinkedOn | V |  | |  |
-| Melihat Post lowongan UKM/Kegiatan mahasiswa | | V | | |
-| Menghapus Lowongan UKM/Kegiatan Mahasiswa  |  |  | | V |
-| Searching Lowongan UKM/Kegiatan Mahasiswa  |  | V | | |
-| Membuat Lowongan UKM/Kegiatan Mahasiswa  | V |  | |  |
-| Mengedit Password user  |  |  | V |  |
-| Melihat daftar akun (admin)  |  | V | | |
-| Menghapus akun  | |  | V |  |
+| Registrasi pada LinkedOn | ✅ |  | |  |
+| Melihat Post lowongan UKM/Kegiatan mahasiswa | | ✅ | | |
+| Menghapus Lowongan UKM/Kegiatan Mahasiswa  |  |  | | ✅ |
+| Searching Lowongan UKM/Kegiatan Mahasiswa  |  | ✅ | | |
+| Membuat Lowongan UKM/Kegiatan Mahasiswa  | ✅ |  | |  |
+| Mengedit Password user  |  |  | ✅ |  |
+| Melihat daftar akun (admin)  |  | ✅ | | |
+| Menghapus akun  | |  | ✅ |  |
 
 **Hasil implementasi**
 
