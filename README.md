@@ -46,21 +46,14 @@ Sebagai user saya dapat membuat profil
 -Mengatur nama
 -Mengatur password
 
-2.Melihat Lowongan berdasarkan kategori
-Kategori
-- Fakultas
-- Department
-- PPKU
-- Kepanitiaan
-- Keagamaan
-
+2.Mencari lowongan berdasarkan kata kunci
 3.Sebagai user saya ingin membuat post
 Membuat post akan menjadi fitur dari setiap profil
 
 **Spesifikasi teknis lingkungan pengembangan**
 
 Software
-Framework : Laravel
+Framework : Laravel, Bootstrap
 Database : MySQL
 Server : Apache
 Text Editor/IDE : Visual Studio Code atau Sublime Text 3
