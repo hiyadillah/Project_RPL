@@ -44,4 +44,18 @@ Kategori
 3.Sebagai user saya ingin membuat post
 Membuat post akan menjadi fitur dari setiap profil
 
+**Spesifikasi teknis lingkungan pengembangan**
+Software
+Framework : Laravel
+Database : MySQL
+Server : Apache
+Text Editor/IDE : Visual Studio Code atau Sublime Text 3
+Hardware
+Processor : minimal 1 GHz
+RAM : 1 GB
+Graphic Card : DirectX 9 dengan drive WDDM 1.0
+
+Tech Stack
+Version Control dan Collaboration Platform : Github dan Trello
+Teknologi : CSS/HTML, Javascript dan PHP
 
