@@ -160,3 +160,19 @@ Positive Case
 | User menghapus project  | User telah login dan mengakses halaman profile |User mengklik tombol hapus pada project  |Project berhasil dihapus | As expected |Pass✅|
 | User melakukan login tanpa melakukan pendaftaran terlebih dahulu  | User mengakses website | User mengakses website kemudian melakukan login dan mengisikan email dan password yang belum pernah dilakukan  | Terdapat error yang terjadi karena memasukan email dan | As expected |Pass✅|
 
+Negative Case
+
+| Scenario | Prequisite | Steps | Expected Result | Actual Result|Status|
+| --------------- | --------------- | --------------- | --------------- | --------------- |--------------- |
+| User melakukan pendaftaran | User mengakses website | User mengakses website kemudian melakukan pendaftaran hanya mengisikan nama  | Terdapat warning yang terjadi karena belum memasukan email dan password| Terjadi error yang tampil pada halaman yang berbeda |Failed❌|
+| User melakukan posting project  | User telah login dan mengakses halaman post new project | User memasukkan hanya beberapa data seperti hanya mengisi tanggal atau upload file saja|Terdapat warning karena belum memasukkan data yang diperlukan yaitu nama project dan deskripsi project| Terjadi error yang tampil pada halaman yang berbeda|Failed❌|
+| User menghapus account | User telah berada di halaman profile | User menekan tombol hapus akun |User dialihkan ke homepage dan seluruh data dari akun tersebut tidak ditampilkan lagi terutama project-project yang pernah dipost | account tersebut berhasil dihapus tetapi Project yang pernah dipost akun tersebut masih ada|Failed❌|
+
+**Saran untuk pengembangan selanjutnya**
+
+- Website belum memfasilitasi pendaftaran project-project yang dipost, harapannya pengembangan selanjutnya bisa memfasilitasi sampai ke pendaftaran project-projectnya 
+- Seharusnya Homepage dan dashboard itu sama karena bisa menampilkan project yang ada meskipun belum melakukan log in
+- Nama dan email sebaiknya bisa diubah (manajemen profile)
+- Ketika akun dihapus, seharusnya project yang telah dibuat pada akun tersebut ikut dihapus juga atau tidak ditampilkan pada dashboard pada saat melakukan log in menggunakan akun yang lain
+- Ditambahkan fitur filter pada search
+- Pada profil seharusnya terdapat deskripsi untuk menjelaskan sebuah profil lebih baik lagi
