@@ -3,11 +3,11 @@
 
 Nama sistem : LinkedOn 
 
-Paralel :  
+Paralel : 2 
 
 Kelompok : 1 
 
-Nama Asisten Praktikum :
+Nama Asisten Praktikum : Ali
 
 
 Nama Kelompok
@@ -18,7 +18,7 @@ Nama Kelompok
 
 **Latar Belakang**
 	
-Teknologi saat ini sudah berkembang dengan sangat pesat dan dapat menyelesaikan permasalahan yang ada sehingga dimanfaatkan di berbagai bidang seperti bidang pendidikan.  Contoh 
+    Teknologi saat ini sudah berkembang dengan sangat pesat dan dapat menyelesaikan permasalahan yang ada sehingga dimanfaatkan di berbagai bidang seperti bidang pendidikan.  Contoh 
 masalah yang ada di bidang pendidikan adalah banyaknya organisasi yang ada di perguruan tinggi negeri sehingga mahasiswa kesulitan untuk mendapatkan informasi yang tepat. Saat 
 ini, perguruan tinggi negeri bukan hanya berfungsi sebagai sarana pendidikan formal, tetapi juga berfungsi sebagai sarana penyaluran bakat. Sarana penyaluran bakat tersebut 
 dapat berupa organisasi atau kepanitiaan yang berada di bawah perguruan tinggi negeri tersebut. Banyaknya organisasi dan kepanitiaan yang ada akan menciptakan masalah baru yaitu 
