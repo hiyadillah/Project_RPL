@@ -67,28 +67,28 @@
     </div>
     <div class="col-12 col-md-6 col-lg-3">
       <div class="card text-wrap" style="width: 17rem; padding: 15px; height: 30rem;">
-        <img src="{{asset('images/ittoday.jpg')}}" class="card-img-top" alt="..." style="width: 15rem; height: 15rem;">
+        <img src="{{asset('images/ilham.jpg')}}" class="card-img-top" alt="..." style="width: 15rem; height: 15rem;">
         <div class="card-body overflow-auto" style="font-family: Gilroy;">
           <h5 class="card-title">Ilham Iyadillah</h5>
-          <p class="card-text">...</p>
+          <p class="card-text">backend</p>
         </div>
       </div>
     </div>
     <div class="col-12 col-md-6 col-lg-3">
       <div class="card text-wrap" style="width: 17rem; padding: 15px; height: 30rem;">
-        <img src="{{asset('images/ittoday.jpg')}}" class="card-img-top" alt="..." style="width: 15rem; height: 15rem;">
+        <img src="{{asset('images/aldi.png')}}" class="card-img-top" alt="..." style="width: 15rem; height: 15rem;">
         <div class="card-body overflow-auto" style="font-family: Gilroy;">
           <h5 class="card-title">Aldinur Syahdin</h5>
-          <p class="card-text">...</p>
+          <p class="card-text">backend</p>
         </div>
       </div>
     </div>
     <div class="col-12 col-md-6 col-lg-3">
       <div class="card text-wrap" style="width: 17rem; padding: 15px; height: 30rem;">
-        <img src="{{asset('images/ittoday.jpg')}}" class="card-img-top" alt="..." style="width: 15rem; height: 15rem;">
+        <img src="{{asset('images/ihsan.png')}}" class="card-img-top" alt="..." style="width: 15rem; height: 15rem;">
         <div class="card-body overflow-auto" style="font-family: Gilroy;">
           <h5 class="card-title">Mahara Ihsan</h5>
-          <p class="card-text">...</p>
+          <p class="card-text">backend</p>
         </div>
       </div>
     </div>
