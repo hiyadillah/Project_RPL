@@ -76,32 +76,41 @@ Teknologi : CSS/HTML, Javascript dan PHP
 **Hasil dan pembahasan**
 
 Use case diagram
+
 ![use case LinkedOn](https://user-images.githubusercontent.com/72461590/121895926-f5338380-cd4a-11eb-9664-b361cae509b7.png)
 
 Activity diagram 
+
 ![activity diagram](https://user-images.githubusercontent.com/72461590/121897351-78a1a480-cd4c-11eb-83ad-0b649d3828d0.jpg)
 
 Class diagram 
+
 ![class diagram](https://user-images.githubusercontent.com/72461590/121897476-9f5fdb00-cd4c-11eb-839f-e0533aff982b.png)
 
 Entity Relationship Diagram 
+
 ![ERD linkedOn 0](https://user-images.githubusercontent.com/72461590/121897569-b56d9b80-cd4c-11eb-8e7e-8059f14e1f98.png)
 
 Arsitektur sistem
+
 ![Arsitektur Aplikasi LinkedOn](https://user-images.githubusercontent.com/72461590/121897665-cfa77980-cd4c-11eb-921b-49e414debd3e.png)
 
 Fungsi utama yang dikembangkan
 
 1.Registrasi
+
 ![registrasi linkedOn](https://user-images.githubusercontent.com/72461590/121897784-ec43b180-cd4c-11eb-99dc-a45bb8c03acb.png)
 
 2. Log in
+
 ![Login LinkedOn](https://user-images.githubusercontent.com/72461590/121897885-01b8db80-cd4d-11eb-9a71-9cc64e9840dc.png)
 
 3. Create Post
+
 ![Create Post](https://user-images.githubusercontent.com/72461590/121897979-1bf2b980-cd4d-11eb-8199-3dcb3c4ec849.png)
 
 4. Search Post
+
 ![Search Post](https://user-images.githubusercontent.com/72461590/121898083-362c9780-cd4d-11eb-82c8-dcec1b472fd8.png)
 
 **Fungsi CRUD**
