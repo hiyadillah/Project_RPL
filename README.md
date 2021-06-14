@@ -115,4 +115,5 @@ Fungsi utama yang dikembangkan
 
 **Fungsi CRUD**
 
+import Table from 'rc-table';
 
