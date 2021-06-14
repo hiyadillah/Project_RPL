@@ -119,5 +119,44 @@ Fungsi utama yang dikembangkan
 | Melihat daftar akun (admin)  |  | V | | |
 | Menghapus akun  | |  | V |  |
 
+**Hasil implementasi**
+Screenshot sistem
 
+Welcome Page
+
+![homepage](https://user-images.githubusercontent.com/72461590/121905922-cf12e100-cd54-11eb-96aa-df84a6322fc0.png)
+
+Login
+![login](https://user-images.githubusercontent.com/72461590/121906188-10a38c00-cd55-11eb-947a-60aec70a36c6.png)
+
+Registrasi
+![registrasi linkedOn](https://user-images.githubusercontent.com/72461590/121906358-3df03a00-cd55-11eb-8ae2-8f356e8b27ca.png)
+
+Dashboard
+![dashboard](https://user-images.githubusercontent.com/72461590/121906826-b0611a00-cd55-11eb-8dc5-cb0d0e957690.png)
+
+Profile
+![profile](https://user-images.githubusercontent.com/72461590/121906917-c7a00780-cd55-11eb-9878-33d6bba26dac.png)
+
+Reset Password
+![Reset Password](https://user-images.githubusercontent.com/72461590/121907003-d8e91400-cd55-11eb-9070-e3c187cee0ba.png)
+
+Membuat Project
+![Membuat Project](https://user-images.githubusercontent.com/72461590/121907130-f918d300-cd55-11eb-8153-230662ef68d4.png)
+
+Hapus Project
+![Hapus Project](https://user-images.githubusercontent.com/72461590/121907213-0b930c80-cd56-11eb-94e2-46edefb8b51f.png)
+
+**Testing (Test cases)**
+
+Positive Case
+
+| Scenario | Prequisite | Steps | Expected Result | Actual Result|Status|
+| --------------- | --------------- | --------------- | --------------- | --------------- |--------------- |
+| User mendaftar dengan data yang valid | User mengakses website | User mengakses halaman login, akses halaman daftar, lakukan pendaftaran dengan memasukkan nama, email, password, klik daftar | Pendaftaran berhasil, user dialihkan ke halaman login| As expected |Pass✅|
+| User login dengan akun yang valid | User telah mendaftar pada link LinkedOn| User mengakses halaman login, masukkan email dan  password, klik masuk | Login berhasil dan user dialihkan ke halaman dashboard|As expected |Pass✅|
+| User membuat postingan project dengan data yang valid  | User telah login ke website LinkedOn | User mengakses halaman Post new project, masukkan nama project, deskripsi, tanggal tutup proyek dan foto/logo, klik post |Posting berhasil dan user dialihkan ke halaman dashboard | As expected |Pass✅|
+| User mereset password   | User telah login dan mengakses halaman profile | User memasukkan password dan konfirmasi password, Klik Update PasswordReset Password berhasil |Reset Password berhasil | As expected|Pass✅|
+| User menghapus project  | User telah login dan mengakses halaman profile |User mengklik tombol hapus pada project  |Project berhasil dihapus | As expected |Pass✅|
+| User melakukan login tanpa melakukan pendaftaran terlebih dahulu  | User mengakses website | User mengakses website kemudian melakukan login dan mengisikan email dan password yang belum pernah dilakukan  | Terdapat error yang terjadi karena memasukan email dan | As expected |Pass✅|
 
