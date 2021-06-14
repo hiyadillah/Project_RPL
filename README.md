@@ -169,6 +169,10 @@ Hapus Project
 
 ![Hapus Project](https://user-images.githubusercontent.com/72461590/121907213-0b930c80-cd56-11eb-94e2-46edefb8b51f.png)
 
+Link Aplikasi
+
+http://linked0n.herokuapp.com/
+
 **Testing (Test cases)**
 
 Positive Case
